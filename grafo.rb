@@ -114,5 +114,8 @@ class Grafo
     end
     maxDistancia
   end
+  def ciclos?
+    false
+  end
 
 end
